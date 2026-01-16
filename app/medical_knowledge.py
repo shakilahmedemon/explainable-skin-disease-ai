@@ -1,4 +1,3 @@
-
 MEDICAL_DATA = {
     "Melanoma": {
         "overview": "A serious skin condition involving pigment-producing cells.",
