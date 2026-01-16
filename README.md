@@ -143,3 +143,9 @@ data/
 ## Disclaimer
 
 This software is for research and educational purposes only. It is not intended for clinical diagnosis and should not replace professional medical advice. Always consult with qualified healthcare providers for medical decisions.
+
+## Author
+
+AHMED MD SHAKIL
+
+Studying Software Engineering at Yangzhou University
